@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Socket_Arduino_Mini)(type KiCad)(uri /media/luiz_moura/backup/kicad/template/Arduino_Mini/Socket_Arduino_Mini.pretty)(options "")(descr ""))
+  (lib (name Socket_Arduino_Pro_Mini)(type KiCad)(uri /media/luiz_moura/backup/kicad/template/Arduino_Pro_Mini/Socket_Arduino_Pro_Mini.pretty)(options "")(descr ""))
+)
